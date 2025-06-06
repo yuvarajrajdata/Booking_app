@@ -1,0 +1,25 @@
+{
+  "classes_details": [
+    {
+      "id": 1,
+      "class_name": "Yoga",
+      "datetime": "2025-06-10T07:00:00+05:30",
+      "instructor": "Alice",
+      "available_slots": 9
+    },
+    {
+      "id": 2,
+      "class_name": "Zumba",
+      "datetime": "2025-06-11T09:00:00+05:30",
+      "instructor": "Bob",
+      "available_slots": 15
+    },
+    {
+      "id": 3,
+      "class_name": "HIIT",
+      "datetime": "2025-06-12T18:00:00+05:30",
+      "instructor": "Charlie",
+      "available_slots": 12
+    }
+  ]
+}
