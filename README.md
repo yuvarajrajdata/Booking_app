@@ -17,7 +17,7 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
     RUN the application using run button or flask run app.py in terminal
 
 ## 4.  Postman requests:
-```bash
+
     1. Get all fitness classes
        Method : GET
        URL : http://127.0.0.1:5000/api/get_classes_details  # may also run in port 80
@@ -40,6 +40,7 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
 
 
 POST RESPONSE
+```bash
 ![image](https://github.com/user-attachments/assets/d999be6b-d27b-4720-b43f-1b5f9a1af355)
 
 ![image](https://github.com/user-attachments/assets/fd639aaf-2981-42b0-9f22-eb46db4548e2)

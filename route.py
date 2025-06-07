@@ -24,7 +24,7 @@ def add_bookings():
     class_list = classes_data.get("classes_details", [])
 
     try:
-        selected_class = next((c for c in class_list if c["id"] == class_id), None)
+        selected_class = next((c for c in class_list if c["class_id"] == class_id), None)
 
         if selected_class["available_slots"] <= 0:
             logger.info(f"No slots available for {class_id}.")
