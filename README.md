@@ -5,9 +5,8 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
 
 ## Setup
 
-## 1. Clone the repository:
 
-   ```bash
+## 1. Clone the repository:
    git clone https://github.com/yuvarajrajdata/Booking_app.git
    cd booking-api
 
@@ -18,6 +17,7 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
     RUN the application using run button or flask run app.py in terminal
 
 ## 4.  Postman requests:
+```bash
     1. Get all fitness classes
        Method : GET
        URL : http://127.0.0.1:5000/api/get_classes_details  # may also run in port 80
