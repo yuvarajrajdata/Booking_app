@@ -41,10 +41,10 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
 
 POST RESPONSE
 ```bash
-![image](https://github.com/user-attachments/assets/d999be6b-d27b-4720-b43f-1b5f9a1af355)
+POSTMAN/get_classes_details.png
 
-![image](https://github.com/user-attachments/assets/fd639aaf-2981-42b0-9f22-eb46db4548e2)
+POSTMAN/add bookings.png
 
-![image](https://github.com/user-attachments/assets/7b818286-225b-42de-8f37-92ba23d0fa4c)
+POSTMAN/get_booking_details.png
 
-
+POSTMAN/log.png
