@@ -37,3 +37,13 @@ This is a simple RESTful API built with Flask for a fictional fitness studio tha
     3. Get bookings by client email
        Method: GET
        URL : http://127.0.0.1:5000/api/get_booking_details
+
+
+POST RESPONSE
+![image](https://github.com/user-attachments/assets/d999be6b-d27b-4720-b43f-1b5f9a1af355)
+
+![image](https://github.com/user-attachments/assets/fd639aaf-2981-42b0-9f22-eb46db4548e2)
+
+![image](https://github.com/user-attachments/assets/7b818286-225b-42de-8f37-92ba23d0fa4c)
+
+
